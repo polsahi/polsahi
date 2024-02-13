@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @polsahi
 - 👀 I’m interested in HPC
-- 🌱 I’m currently studying Computer Science
+- 🌱 I’m currently studying Computer Engineering
